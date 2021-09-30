@@ -5,8 +5,7 @@ mini project to fetch API using axios and styled-components\
 Library Version :\
 "axios": "^0.21.4",\
 "react": "^17.0.2",\
-"styled-components": "^5.3.1",\
-
+"styled-components": "^5.3.1",
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
