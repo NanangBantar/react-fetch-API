@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-mini project to fetch API using axios and styled-components\
+mini project to fetch API using axios and styled-components
 
 Library Version :\
 "axios": "^0.21.4",\
